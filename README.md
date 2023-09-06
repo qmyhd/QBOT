@@ -1,5 +1,3 @@
-![banner](https://user-images.githubusercontent.com/1167575/225629372-eb4de08a-ed62-4660-a83d-6e42a5c092d7.jpg)
-
 
 <p align="center">Similar to CharacterAI, but open source, and with much deeper character customization.</p>
 
@@ -28,6 +26,4 @@
 * Easily import character files and conversation data most other formats.
 * Send new feature ideas or bug reports [here](https://github.com/josephrocca/OpenCharacters/issues) or on our [Discord server](https://discord.gg/5tkWXJFqPV).
 
-## Changelog
 
-Please see the `#announcements` channel on the [Discord server](https://discord.gg/5tkWXJFqPV) for latest updates.
